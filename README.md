@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=I%20Putu%20Indrawan&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20|%20API%20Developer%20|%20Prompt%20Engineer&descAlignY=55&descSize=15"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=David%20Cyril%20Technologies&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20API%20Developer%20|%20Software%20Enginner&descAlignY=55&descSize=15"/>
 </div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=30&duration=4000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+DavidCyrilTech;Welcome+to+My+Profile!;Learning+Backend+Development;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=30&duration=4000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+David+Cyril;Welcome+to+My+Profile!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -79,7 +79,7 @@
 </div>
 
 <div align="center">
-  <h2>💝 Support Me</h2>
+
   
 
   
