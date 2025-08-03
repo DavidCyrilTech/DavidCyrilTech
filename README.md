@@ -10,10 +10,7 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=DavidCyrilTech&color=63a4ff&style=for-the-badge)
-  [![Years Badge](https://badges.pufler.dev/years/DavidCyrilTech?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
-  [![Repos Badge](https://badges.pufler.dev/repos/DavidCyrilTech?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
-  [![Commits Badge](https://badges.pufler.dev/commits/monthly/DavidCyrilTech?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
+![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
   
 </div>
 
