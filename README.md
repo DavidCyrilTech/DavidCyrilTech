@@ -15,19 +15,17 @@
 </div>
 
 <div align="center">
-  <h2>🌟 About Me</h2>
+  <h2>💫 Connect With Me</h2>
   <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 
-<div align="center">
-  <h2>💫 Connect With Me</h2>
+
   
-  <a href="https://wa.me/6285658939117">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://github.com/DavidCyrilTech">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://wa.me/2349066528353"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://www.youtube.com/@DavidCyril_TECH"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@DavidCyril_TECH" /><br>
+
   <br>
   <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=DavidCyrilTech&data=followers,repositories,stars,commits&theme=nautical"/>
 </div>
@@ -70,10 +68,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidCyrilTech&bg_color=0d1117&color=63a4ff&line=83eaf1&point=63a4ff&area=true&hide_border=true&radius=8" width="100%">
 </div>
 
-<div align="center">
-  <h2>🌐 Weekly Development</h2>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DavidCyrilTech&theme=tokyonight&hide_border=true" width="100%">
-</div>
+
 
 <div align="center">
 
