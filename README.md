@@ -8,11 +8,18 @@
   </a>
 </p>
 
+
+
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=DavidCyrilTech&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
   
 </div>
+
+<p align="center">
+<a href="https://donate.david-cyril.net.ng"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95️-orange?style=for-the-badge" /></a>
+</p>
+
 
 <div align="center">
   <h2>💫 Connect With Me</h2>
@@ -77,8 +84,6 @@
   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%">
   
-  ### Show some ❤️ by starring repositories!
-</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
