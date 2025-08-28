@@ -20,6 +20,9 @@
 <a href="https://donate.david-cyril.net.ng"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95️-orange?style=for-the-badge" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/andhikagg"><img src="https://count.getloli.com/get/@andhikagg?theme=rule34" alt="visitor"></a>
+</p>
 
 <div align="center">
   <h2>💫 Connect With Me</h2>
